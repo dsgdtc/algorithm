@@ -5,4 +5,6 @@
 </br>
 </br>
 最后的冒泡排序已经运行不完了</br>
-![image](https://github.com/dsgdtc/algorithm/raw/master/run_time_result.png)
+![image](https://github.com/dsgdtc/algorithm/raw/master/run_time_result.png)</br>
+</br>
+连续子数组使其最大.py   动态规划算法思想</br>
